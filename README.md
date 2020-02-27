@@ -3,6 +3,10 @@
 
 Open [Task-planner-app](https://swilson-task-planner-app.herokuapp.com/)
 
+## FireBase deploy
+
+open [Task Planne App sw](https://task-planner-app-sw.firebaseapp.com/)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
